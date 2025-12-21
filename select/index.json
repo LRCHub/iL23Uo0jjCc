@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Step",
+  "base_artist": "みゆみん",
+  "createdAt": "2025-12-21T13:55:32.834321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pop In My Step",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Pop_In_My_Step_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pop in My Step",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Pop_in_My_Step_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Step Forward",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/03_One_Step_Forward_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Step By Step",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/04_Step_By_Step_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Step That Step",
+      "artist": "Sawyer Brown",
+      "has_synced": true,
+      "path": "select/05_Step_That_Step_Sawyer_Brown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The First Step",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/06_The_First_Step_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The First Step (Album Version)",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/07_The_First_Step_(Album_Version)_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Two-Step Down to Texas",
+      "artist": "Jack Ingram feat. Miranda Lambert & Jon Randall",
+      "has_synced": true,
+      "path": "select/08_Two-Step_Down_to_Texas_Jack_Ingram_feat._Miranda_Lambert_&_Jon_Randall.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Two-Step Down to Texas",
+      "artist": "Jack Ingram",
+      "has_synced": true,
+      "path": "select/09_Two-Step_Down_to_Texas_Jack_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Step Closer",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_One_Step_Closer_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1,2 Step (Live)",
+      "artist": "Yu Ri",
+      "has_synced": true,
+      "path": "select/11_1,2_Step_(Live)_Yu_Ri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1,2 Step (유리)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/12_1,2_Step_(유리)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Step",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/13_Step_f(x).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Step",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/14_Step_f(x).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Step By Me",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/15_Step_By_Me_f(x).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Step",
+      "artist": "みゆみん",
+      "has_synced": false,
+      "path": "select/pl_01_Step_みゆみん.txt"
+    }
+  ]
+}
